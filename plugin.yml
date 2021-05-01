@@ -4,7 +4,4 @@ version: 1.0.0
 api: [3.19.0, 4.0.0]
 load: STARTUP
 author: TheNote
-authors:
-  #Special Thanks for The Code!
-  - CortexPE
 description: Activates the Trident In Game on pmmp or Altay.
