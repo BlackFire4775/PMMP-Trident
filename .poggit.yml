@@ -3,5 +3,5 @@ branches:
 - master
 projects:
   Trident:
-    path: ""
+    path: "https://github.com/BlackFire4775/PMMP-Trident"
 ...
